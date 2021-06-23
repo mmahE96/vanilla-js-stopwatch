@@ -1,0 +1,28 @@
+span{
+    
+    display: flex ;
+    justify-content: center;
+    font-size: 90px ;
+}
+
+
+.elem {
+    
+		width: 300px; 
+		height: 88px;
+		background-color: rgb(52, 52, 177);
+		color: rgb(251, 255, 0);
+        font-weight: bold;
+        border-radius: 5px;		
+		opacity: 1;
+		padding: 0;
+		border: solid rgb(121, 122, 167) ;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin: 0.1cm;	
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
